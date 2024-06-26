@@ -1,4 +1,4 @@
-RIOT os board specification for WeAct STM32F405RGT board
+# RIOT os board specification for WeAct STM32F405RGT board
 
 WeAct STM32F405RGT6 board works well with 'stm32f4discovery' board target but its good to have its own board specification.
 NOTE: Blue LED works but other configuration (pins, perips, etc.) requires review by more skilled specialist.
