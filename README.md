@@ -25,4 +25,5 @@ make BOARD=weact-f405rg flash
 Usefull links:
 
 RIOT os code base: https://github.com/RIOT-OS/RIOT.git
+
 RIOT os stm32f4discovery board code (borrowed code): https://github.com/RIOT-OS/RIOT/tree/master/boards/stm32f4discovery
